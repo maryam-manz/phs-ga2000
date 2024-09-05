@@ -1,2 +1,2 @@
-# phs-ga2000
+# phys-ga2000
 #computational physics class homeworks and tests
