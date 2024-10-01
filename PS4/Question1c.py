@@ -6,7 +6,7 @@ def temp_func(x=None):
     return (x**4)*np.exp(x)/(np.exp(x)-1)**2
 
 
-T = np.linspace(5, 20, 5)                      #values of T to evaluate on
+T = np.linspace(5, 10, 5)                      #values of T to evaluate on
 b = 426/T
 constant = (9*6.022*1.3806*10**2)/b**3
 
